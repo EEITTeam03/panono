@@ -7,5 +7,5 @@
 例: https://eeitteam03.github.io/panono/
 
 也可以在 live tour id 後面指定項目
-例: https://eeitteam03.github.io/panono/hola 或 https://eeitteam03.github.io/panono/yocico
-或 https://eeitteam03.github.io/panono/rangeRover
+例: https://eeitteam03.github.io/panono/#/hola 或 https://eeitteam03.github.io/panono/#/yocico
+或 https://eeitteam03.github.io/panono/#/rangeRover
